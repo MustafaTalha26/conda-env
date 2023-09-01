@@ -1,0 +1,292 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\mtmert\anaconda3\envs\Env
+
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate Env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\mtmert\anaconda3\envs\Env
+
+  added / updated specs:
+    - pip
+
+
+The following NEW packages will be INSTALLED:
+
+  bzip2              pkgs/main/win-64::bzip2-1.0.8-he774522_0 
+  ca-certificates    pkgs/main/win-64::ca-certificates-2023.05.30-haa95532_0 
+  libffi             pkgs/main/win-64::libffi-3.4.4-hd77b12b_0 
+  openssl            pkgs/main/win-64::openssl-3.0.10-h2bbff1b_0 
+  pip                pkgs/main/win-64::pip-23.2.1-py311haa95532_0 
+  python             pkgs/main/win-64::python-3.11.4-he1021f5_0 
+  setuptools         pkgs/main/win-64::setuptools-68.0.0-py311haa95532_0 
+  sqlite             pkgs/main/win-64::sqlite-3.41.2-h2bbff1b_0 
+  tk                 pkgs/main/win-64::tk-8.6.12-h2bbff1b_0 
+  tzdata             pkgs/main/noarch::tzdata-2023c-h04d1e81_0 
+  vc                 pkgs/main/win-64::vc-14.2-h21ff451_1 
+  vs2015_runtime     pkgs/main/win-64::vs2015_runtime-14.27.29016-h5e58377_2 
+  wheel              pkgs/main/win-64::wheel-0.38.4-py311haa95532_0 
+  xz                 pkgs/main/win-64::xz-5.4.2-h8cc25b3_0 
+  zlib               pkgs/main/win-64::zlib-1.2.13-h8cc25b3_0 
+
+
+
+Downloading and Extracting Packages
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\mtmert\anaconda3\envs\Env
+
+  added / updated specs:
+    - numpy
+
+
+The following NEW packages will be INSTALLED:
+
+  blas               pkgs/main/win-64::blas-1.0-mkl 
+  intel-openmp       pkgs/main/win-64::intel-openmp-2023.1.0-h59b6b97_46319 
+  mkl                pkgs/main/win-64::mkl-2023.1.0-h6b88ed4_46357 
+  mkl-service        pkgs/main/win-64::mkl-service-2.4.0-py311h2bbff1b_1 
+  mkl_fft            pkgs/main/win-64::mkl_fft-1.3.6-py311hf62ec03_1 
+  mkl_random         pkgs/main/win-64::mkl_random-1.2.2-py311hf62ec03_1 
+  numpy              pkgs/main/win-64::numpy-1.25.2-py311hdab7c0b_0 
+  numpy-base         pkgs/main/win-64::numpy-base-1.25.2-py311hd01c5d8_0 
+  tbb                pkgs/main/win-64::tbb-2021.8.0-h59b6b97_0 
+
+
+
+Downloading and Extracting Packages
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\mtmert\anaconda3\envs\Env
+
+  added / updated specs:
+    - matplotlib=3.7.1
+
+
+The following NEW packages will be INSTALLED:
+
+  brotli             pkgs/main/win-64::brotli-1.0.9-h2bbff1b_7 
+  brotli-bin         pkgs/main/win-64::brotli-bin-1.0.9-h2bbff1b_7 
+  contourpy          pkgs/main/win-64::contourpy-1.0.5-py311h59b6b97_0 
+  cycler             pkgs/main/noarch::cycler-0.11.0-pyhd3eb1b0_0 
+  fonttools          pkgs/main/noarch::fonttools-4.25.0-pyhd3eb1b0_0 
+  freetype           pkgs/main/win-64::freetype-2.12.1-ha860e81_0 
+  giflib             pkgs/main/win-64::giflib-5.2.1-h8cc25b3_3 
+  glib               pkgs/main/win-64::glib-2.69.1-h5dc1a3c_2 
+  gst-plugins-base   pkgs/main/win-64::gst-plugins-base-1.18.5-h9e645db_0 
+  gstreamer          pkgs/main/win-64::gstreamer-1.18.5-hd78058f_0 
+  icu                pkgs/main/win-64::icu-58.2-ha925a31_3 
+  jpeg               pkgs/main/win-64::jpeg-9e-h2bbff1b_1 
+  kiwisolver         pkgs/main/win-64::kiwisolver-1.4.4-py311hd77b12b_0 
+  krb5               pkgs/main/win-64::krb5-1.19.4-h5b6d351_0 
+  lerc               pkgs/main/win-64::lerc-3.0-hd77b12b_0 
+  libbrotlicommon    pkgs/main/win-64::libbrotlicommon-1.0.9-h2bbff1b_7 
+  libbrotlidec       pkgs/main/win-64::libbrotlidec-1.0.9-h2bbff1b_7 
+  libbrotlienc       pkgs/main/win-64::libbrotlienc-1.0.9-h2bbff1b_7 
+  libclang           pkgs/main/win-64::libclang-14.0.6-default_hb5a9fac_1 
+  libclang13         pkgs/main/win-64::libclang13-14.0.6-default_h8e68704_1 
+  libdeflate         pkgs/main/win-64::libdeflate-1.17-h2bbff1b_0 
+  libiconv           pkgs/main/win-64::libiconv-1.16-h2bbff1b_2 
+  libogg             pkgs/main/win-64::libogg-1.3.5-h2bbff1b_1 
+  libpng             pkgs/main/win-64::libpng-1.6.39-h8cc25b3_0 
+  libtiff            pkgs/main/win-64::libtiff-4.5.0-h6c2663c_2 
+  libvorbis          pkgs/main/win-64::libvorbis-1.3.7-he774522_0 
+  libwebp            pkgs/main/win-64::libwebp-1.2.4-hbc33d0d_1 
+  libwebp-base       pkgs/main/win-64::libwebp-base-1.2.4-h2bbff1b_1 
+  libxml2            pkgs/main/win-64::libxml2-2.10.3-h0ad7f3c_0 
+  libxslt            pkgs/main/win-64::libxslt-1.1.37-h2bbff1b_0 
+  lz4-c              pkgs/main/win-64::lz4-c-1.9.4-h2bbff1b_0 
+  matplotlib         pkgs/main/win-64::matplotlib-3.7.1-py311haa95532_1 
+  matplotlib-base    pkgs/main/win-64::matplotlib-base-3.7.1-py311hf62ec03_1 
+  munkres            pkgs/main/noarch::munkres-1.1.4-py_0 
+  packaging          pkgs/main/win-64::packaging-23.0-py311haa95532_0 
+  pcre               pkgs/main/win-64::pcre-8.45-hd77b12b_0 
+  pillow             pkgs/main/win-64::pillow-9.4.0-py311hd77b12b_0 
+  ply                pkgs/main/win-64::ply-3.11-py311haa95532_0 
+  pyparsing          pkgs/main/win-64::pyparsing-3.0.9-py311haa95532_0 
+  pyqt               pkgs/main/win-64::pyqt-5.15.7-py311hd77b12b_0 
+  pyqt5-sip          pkgs/main/win-64::pyqt5-sip-12.11.0-py311hd77b12b_0 
+  python-dateutil    pkgs/main/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0 
+  qt-main            pkgs/main/win-64::qt-main-5.15.2-he8e5bd7_8 
+  qt-webengine       pkgs/main/win-64::qt-webengine-5.15.9-hb9a9bb5_5 
+  qtwebkit           pkgs/main/win-64::qtwebkit-5.212-h2bbfb41_5 
+  sip                pkgs/main/win-64::sip-6.6.2-py311hd77b12b_0 
+  six                pkgs/main/noarch::six-1.16.0-pyhd3eb1b0_1 
+  toml               pkgs/main/noarch::toml-0.10.2-pyhd3eb1b0_0 
+  tornado            pkgs/main/win-64::tornado-6.3.2-py311h2bbff1b_0 
+  zstd               pkgs/main/win-64::zstd-1.5.5-hd43e919_0 
+
+The following packages will be DOWNGRADED:
+
+  openssl                                 3.0.10-h2bbff1b_0 --> 1.1.1v-h2bbff1b_0 
+  python                                  3.11.4-he1021f5_0 --> 3.11.4-h966fe2a_0 
+
+
+
+Downloading and Extracting Packages
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+
+Collecting seaborn
+  Using cached seaborn-0.12.2-py3-none-any.whl (293 kB)
+Requirement already satisfied: numpy!=1.24.0,>=1.17 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from seaborn) (1.25.2)
+Collecting pandas>=0.25 (from seaborn)
+  Obtaining dependency information for pandas>=0.25 from https://files.pythonhosted.org/packages/9e/71/756a1be6bee0209d8c0d8c5e3b9fc72c00373f384a4017095ec404aec3ad/pandas-2.0.3-cp311-cp311-win_amd64.whl.metadata
+  Using cached pandas-2.0.3-cp311-cp311-win_amd64.whl.metadata (18 kB)
+Requirement already satisfied: matplotlib!=3.6.1,>=3.1 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from seaborn) (3.7.1)
+Requirement already satisfied: contourpy>=1.0.1 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (1.0.5)
+Requirement already satisfied: cycler>=0.10 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (0.11.0)
+Requirement already satisfied: fonttools>=4.22.0 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (4.25.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (1.4.4)
+Requirement already satisfied: packaging>=20.0 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (23.0)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (9.4.0)
+Requirement already satisfied: pyparsing>=2.3.1 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (3.0.9)
+Requirement already satisfied: python-dateutil>=2.7 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from matplotlib!=3.6.1,>=3.1->seaborn) (2.8.2)
+Collecting pytz>=2020.1 (from pandas>=0.25->seaborn)
+  Using cached pytz-2023.3-py2.py3-none-any.whl (502 kB)
+Collecting tzdata>=2022.1 (from pandas>=0.25->seaborn)
+  Using cached tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+Requirement already satisfied: six>=1.5 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from python-dateutil>=2.7->matplotlib!=3.6.1,>=3.1->seaborn) (1.16.0)
+Using cached pandas-2.0.3-cp311-cp311-win_amd64.whl (10.6 MB)
+Installing collected packages: pytz, tzdata, pandas, seaborn
+Successfully installed pandas-2.0.3 pytz-2023.3 seaborn-0.12.2 tzdata-2023.3
+
+Processing c:\users\mtmert\desktop\scikit_learn-1.3.0-cp311-cp311-win_amd64.whl
+Requirement already satisfied: numpy>=1.17.3 in c:\users\mtmert\anaconda3\envs\env\lib\site-packages (from scikit-learn==1.3.0) (1.25.2)
+Collecting scipy>=1.5.0 (from scikit-learn==1.3.0)
+  Obtaining dependency information for scipy>=1.5.0 from https://files.pythonhosted.org/packages/04/b8/947f40706ee2e316fd1a191688f690c4c2b351c2d043fe9deb9b7940e36e/scipy-1.11.1-cp311-cp311-win_amd64.whl.metadata
+  Using cached scipy-1.11.1-cp311-cp311-win_amd64.whl.metadata (59 kB)
+Collecting joblib>=1.1.1 (from scikit-learn==1.3.0)
+  Obtaining dependency information for joblib>=1.1.1 from https://files.pythonhosted.org/packages/10/40/d551139c85db202f1f384ba8bcf96aca2f329440a844f924c8a0040b6d02/joblib-1.3.2-py3-none-any.whl.metadata
+  Using cached joblib-1.3.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=2.0.0 (from scikit-learn==1.3.0)
+  Obtaining dependency information for threadpoolctl>=2.0.0 from https://files.pythonhosted.org/packages/81/12/fd4dea011af9d69e1cad05c75f3f7202cdcbeac9b712eea58ca779a72865/threadpoolctl-3.2.0-py3-none-any.whl.metadata
+  Using cached threadpoolctl-3.2.0-py3-none-any.whl.metadata (10.0 kB)
+Using cached joblib-1.3.2-py3-none-any.whl (302 kB)
+Using cached scipy-1.11.1-cp311-cp311-win_amd64.whl (44.0 MB)
+Using cached threadpoolctl-3.2.0-py3-none-any.whl (15 kB)
+Installing collected packages: threadpoolctl, scipy, joblib, scikit-learn
+Successfully installed joblib-1.3.2 scikit-learn-1.3.0 scipy-1.11.1 threadpoolctl-3.2.0
+
+# packages in environment at C:\Users\mtmert\anaconda3\envs\Env:
+#
+# Name                    Version                   Build  Channel
+blas                      1.0                         mkl  
+brotli                    1.0.9                h2bbff1b_7  
+brotli-bin                1.0.9                h2bbff1b_7  
+bzip2                     1.0.8                he774522_0  
+ca-certificates           2023.05.30           haa95532_0  
+contourpy                 1.0.5           py311h59b6b97_0  
+cycler                    0.11.0             pyhd3eb1b0_0  
+fonttools                 4.25.0             pyhd3eb1b0_0  
+freetype                  2.12.1               ha860e81_0  
+giflib                    5.2.1                h8cc25b3_3  
+glib                      2.69.1               h5dc1a3c_2  
+gst-plugins-base          1.18.5               h9e645db_0  
+gstreamer                 1.18.5               hd78058f_0  
+icu                       58.2                 ha925a31_3  
+intel-openmp              2023.1.0         h59b6b97_46319  
+joblib                    1.3.2                    pypi_0    pypi
+jpeg                      9e                   h2bbff1b_1  
+kiwisolver                1.4.4           py311hd77b12b_0  
+krb5                      1.19.4               h5b6d351_0  
+lerc                      3.0                  hd77b12b_0  
+libbrotlicommon           1.0.9                h2bbff1b_7  
+libbrotlidec              1.0.9                h2bbff1b_7  
+libbrotlienc              1.0.9                h2bbff1b_7  
+libclang                  14.0.6          default_hb5a9fac_1  
+libclang13                14.0.6          default_h8e68704_1  
+libdeflate                1.17                 h2bbff1b_0  
+libffi                    3.4.4                hd77b12b_0  
+libiconv                  1.16                 h2bbff1b_2  
+libogg                    1.3.5                h2bbff1b_1  
+libpng                    1.6.39               h8cc25b3_0  
+libtiff                   4.5.0                h6c2663c_2  
+libvorbis                 1.3.7                he774522_0  
+libwebp                   1.2.4                hbc33d0d_1  
+libwebp-base              1.2.4                h2bbff1b_1  
+libxml2                   2.10.3               h0ad7f3c_0  
+libxslt                   1.1.37               h2bbff1b_0  
+lz4-c                     1.9.4                h2bbff1b_0  
+matplotlib                3.7.1           py311haa95532_1  
+matplotlib-base           3.7.1           py311hf62ec03_1  
+mkl                       2023.1.0         h6b88ed4_46357  
+mkl-service               2.4.0           py311h2bbff1b_1  
+mkl_fft                   1.3.6           py311hf62ec03_1  
+mkl_random                1.2.2           py311hf62ec03_1  
+munkres                   1.1.4                      py_0  
+numpy                     1.25.2          py311hdab7c0b_0  
+numpy-base                1.25.2          py311hd01c5d8_0  
+openssl                   1.1.1v               h2bbff1b_0  
+packaging                 23.0            py311haa95532_0  
+pandas                    2.0.3                    pypi_0    pypi
+pcre                      8.45                 hd77b12b_0  
+pillow                    9.4.0           py311hd77b12b_0  
+pip                       23.2.1          py311haa95532_0  
+ply                       3.11            py311haa95532_0  
+pyparsing                 3.0.9           py311haa95532_0  
+pyqt                      5.15.7          py311hd77b12b_0  
+pyqt5-sip                 12.11.0         py311hd77b12b_0  
+python                    3.11.4               h966fe2a_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+pytz                      2023.3                   pypi_0    pypi
+qt-main                   5.15.2               he8e5bd7_8  
+qt-webengine              5.15.9               hb9a9bb5_5  
+qtwebkit                  5.212                h2bbfb41_5  
+scikit-learn              1.3.0                    pypi_0    pypi
+scipy                     1.11.1                   pypi_0    pypi
+seaborn                   0.12.2                   pypi_0    pypi
+setuptools                68.0.0          py311haa95532_0  
+sip                       6.6.2           py311hd77b12b_0  
+six                       1.16.0             pyhd3eb1b0_1  
+sqlite                    3.41.2               h2bbff1b_0  
+tbb                       2021.8.0             h59b6b97_0  
+threadpoolctl             3.2.0                    pypi_0    pypi
+tk                        8.6.12               h2bbff1b_0  
+toml                      0.10.2             pyhd3eb1b0_0  
+tornado                   6.3.2           py311h2bbff1b_0  
+tzdata                    2023.3                   pypi_0    pypi
+vc                        14.2                 h21ff451_1  
+vs2015_runtime            14.27.29016          h5e58377_2  
+wheel                     0.38.4          py311haa95532_0  
+xz                        5.4.2                h8cc25b3_0  
+zlib                      1.2.13               h8cc25b3_0  
+zstd                      1.5.5                hd43e919_0  
